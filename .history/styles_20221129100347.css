@@ -40,7 +40,7 @@
  /* 計算機のボディー */
  .calc-body {
     width: 300px;
-    height: 60vh;
+    height: 6vh;
     border-radius: 20px;
     background-color: rgb(255,255,255,0.4);
     border: 1px solid rgba(255,255,255,0.1);
